@@ -21,9 +21,8 @@ El reporte se divide en tres hojas principales:
 4.  **Búsqueda Laboral**: Análisis de la modalidad de trabajo, la tecnología utilizada y los sueldos en relación a la búsqueda activa.
 
 ## Hallazgos Principales
-* **La brecha del remoto**: Las posiciones 100% remotas presentan un **X%** más de salarios dolarizados que las presenciales.
-* **IA en el Workflow**: Los profesionales que utilizan herramientas de IA "Mucho" o "Constantemente" perciben una mediana salarial un **X%** superior.
-* **Tolerancia en Entrevistas**: El límite de tolerancia para la mayoría de los candidatos es de **X** entrevistas; a partir de ahí, la intención de abandono del proceso aumenta.
+* **La brecha del remoto**: Las posiciones 100% remotas presentan un **23%** más de salarios dolarizados que las presenciales.
+* **Tolerancia en Entrevistas**: El límite de tolerancia para la mayoría de los candidatos es menor a **4** entrevistas; a partir de ahí, la intención de abandono del proceso aumenta.
 
 ## Desafíos Técnicos Superados
 * **Normalización de Lenguajes**: Se utilizó Power Query para dividir columnas por delimitadores y anular la dinamización de filas, permitiendo contar individualmente cada tecnología mencionada en respuestas múltiples.
