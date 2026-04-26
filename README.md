@@ -13,7 +13,7 @@ Proveer una herramienta visual para entender las tendencias salariales, el impac
 * **DAX (Data Analysis Expressions)**: Creación de medidas personalizadas (Medianas, % de dolarización, etc.).
 
 ## Estructura del Dashboard
-El reporte se divide en tres hojas principales:
+El reporte se divide en las siguientes hojas principales:
 
 1.  **Resumen General**: Vista general de salarios (Bruto/Neto), distribución por Seniority y penetración de sueldos dolarizados.
 2.  **Tecnología y Educación**: Análisis de los lenguajes más utilizados (procesados mediante técnicas de atomización de datos) y la relación entre el nivel académico y los ingresos.
